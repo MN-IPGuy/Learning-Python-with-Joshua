@@ -9,4 +9,3 @@ if (UserYear % 4) == 0:
         print(UserYear, "is a Leap Year!!!!!")
 else:
     print(UserYear, "is not a Leap Year")
-
