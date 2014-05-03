@@ -1,3 +1,3 @@
 x = 3
 print(x)
-print(x+6)
+print(x+9)
