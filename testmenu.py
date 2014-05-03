@@ -79,7 +79,7 @@ while True:
 	if Choice == 2:
 		print("x64 -autostart ~/roms/JUMPMAN.D64")
 	if Choice == 3:
-		print"sudo reboot")
+		print("sudo reboot")
 	if Choice == 4:
 		print("sudo poweroff")    
 curses.endwin()
